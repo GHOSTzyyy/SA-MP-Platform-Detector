@@ -1,3 +1,5 @@
 # SA-MP-Platform-Detector
 
-<a href="https://github.com/Southclaws/zcmd">ZCMD</a>
+| Plugin            | Version           | Link  |
+| :-------------    |:----:   |----:|
+|ZCMD              | v0.3.1           | [Here](https://github.com/Southclaws/zcmd) |
